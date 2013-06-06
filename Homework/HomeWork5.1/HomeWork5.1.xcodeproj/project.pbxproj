@@ -18,6 +18,9 @@
 		B901ABE7175F413B0047A63B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B901ABE6175F413B0047A63B /* Default-568h@2x.png */; };
 		B901ABEA175F413B0047A63B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B901ABE9175F413B0047A63B /* ViewController.m */; };
 		B901ABED175F413B0047A63B /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B901ABEB175F413B0047A63B /* ViewController.xib */; };
+		B9879F491760199500C841CB /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9879F481760199500C841CB /* AssetsLibrary.framework */; };
+		B9879F4D17601A2F00C841CB /* AssetsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9879F4B17601A2F00C841CB /* AssetsViewController.m */; };
+		B9879F4E17601A2F00C841CB /* AssetsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B9879F4C17601A2F00C841CB /* AssetsViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,10 @@
 		B901ABE8175F413B0047A63B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B901ABE9175F413B0047A63B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B901ABEC175F413B0047A63B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		B9879F481760199500C841CB /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		B9879F4A17601A2F00C841CB /* AssetsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AssetsViewController.h; sourceTree = "<group>"; };
+		B9879F4B17601A2F00C841CB /* AssetsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AssetsViewController.m; sourceTree = "<group>"; };
+		B9879F4C17601A2F00C841CB /* AssetsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AssetsViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9879F491760199500C841CB /* AssetsLibrary.framework in Frameworks */,
 				B901ABD1175F413B0047A63B /* UIKit.framework in Frameworks */,
 				B901ABD3175F413B0047A63B /* Foundation.framework in Frameworks */,
 				B901ABD5175F413B0047A63B /* CoreGraphics.framework in Frameworks */,
@@ -73,6 +81,7 @@
 		B901ABCF175F413B0047A63B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B9879F481760199500C841CB /* AssetsLibrary.framework */,
 				B901ABD0175F413B0047A63B /* UIKit.framework */,
 				B901ABD2175F413B0047A63B /* Foundation.framework */,
 				B901ABD4175F413B0047A63B /* CoreGraphics.framework */,
@@ -88,6 +97,9 @@
 				B901ABE8175F413B0047A63B /* ViewController.h */,
 				B901ABE9175F413B0047A63B /* ViewController.m */,
 				B901ABEB175F413B0047A63B /* ViewController.xib */,
+				B9879F4A17601A2F00C841CB /* AssetsViewController.h */,
+				B9879F4B17601A2F00C841CB /* AssetsViewController.m */,
+				B9879F4C17601A2F00C841CB /* AssetsViewController.xib */,
 				B901ABD7175F413B0047A63B /* Supporting Files */,
 			);
 			path = HomeWork5.1;
@@ -163,6 +175,7 @@
 				B901ABE5175F413B0047A63B /* Default@2x.png in Resources */,
 				B901ABE7175F413B0047A63B /* Default-568h@2x.png in Resources */,
 				B901ABED175F413B0047A63B /* ViewController.xib in Resources */,
+				B9879F4E17601A2F00C841CB /* AssetsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +189,7 @@
 				B901ABDD175F413B0047A63B /* main.m in Sources */,
 				B901ABE1175F413B0047A63B /* AppDelegate.m in Sources */,
 				B901ABEA175F413B0047A63B /* ViewController.m in Sources */,
+				B9879F4D17601A2F00C841CB /* AssetsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +312,7 @@
 				B901ABF2175F413B0047A63B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

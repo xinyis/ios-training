@@ -1,0 +1,359 @@
+TMixiRequestManagerSample
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Info.plist MixiRequestManagerSample/MixiRequestManagerSample-Info.plist
+cProcessPCH /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.pth MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample normal i386
+cGenerateDSYMFile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample
+cCpResource MixiRequestManagerSample/Default.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png
+cCopyStringsFile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/en.lproj/InfoPlist.strings MixiRequestManagerSample/en.lproj/InfoPlist.strings
+cCpResource MixiRequestManagerSample/Default@2x.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png
+cCpResource MixiRequestManagerSample/Default-568h@2x.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png
+cCompileXIB /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib
+cCompileXIB /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib
+cTouch /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051A80A140000000000228FE0
+t1369967124
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051A80A1D00000000003DDFA0
+t1369967133
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051A80A1D00000000000015F7
+t1369967133
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051A80A230000000000000E8D
+t1369967139
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051A80A240000000000AB6230
+t1369967140
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051A80A360000000000001B73
+t1369967158
+s7027
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.o
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.o
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManagerSample.LinkFileList
+c0000000051B0259C0000000000000310
+t1370498460
+s784
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.o
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.pth
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Info.plist
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiTableViewCell.nib
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiTableViewController.nib
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/PkgInfo
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/Default-568h@2x.png
+c000000005191DBCF00000000000048A2
+t1368513487
+s18594
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/Default.png
+c000000005191DBCF000000000000198C
+t1368513487
+s6540
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/Default@2x.png
+c000000005191DBCF0000000000003EEB
+t1368513487
+s16107
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m
+c000000005191DBCF0000000000000907
+t1368513487
+s2311
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m
+c000000005191DBCF0000000000000352
+t1368513487
+s850
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch
+c000000005191DBCF000000000000015F
+t1368513487
+s351
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib
+c000000005191DBCF0000000000001D74
+t1368513487
+s7540
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m
+c0000000051B025710000000000000DF9
+t1370498417
+s3577
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib
+c000000005191DBCF0000000000001B7C
+t1368513487
+s7036
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/en.lproj/InfoPlist.strings
+c000000005191DBCF000000000000002D
+t1368513487
+s45
+
+N/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m
+c000000005191DBCF0000000000000173
+t1368513487
+s371
+
+NMixiRequestManagerSample/MixiRequestManagerSample-Info.plist
+c000000005191DBCF0000000000000489
+t1368513487
+s1161
+
+CBuild AST from /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m
+r0
+
+CBuild AST from /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m
+r0
+
+CBuild AST from /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m
+r0
+
+CBuild AST from /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb6a2a51c5d60b741^844abc1c5d60b741^---0#1#0#--18"Check dependencies36"087F2C37-2C19-4DFF-A2B6-B1895C08381A-
+
+CCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392191260.995632
+e392191261.066810
+r1
+xCompileC
+xBuild/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.o
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m6002ff1c5d60b741^501b111d5d60b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m0000000000000000^4393"CompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.o MixiRequestManagerSample/MixiAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-generated-files.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-own-target-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-all-target-headers.hmap -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-project-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources/i386 -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources -F/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator -include /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch -MMD -MT dependencies -MF /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.d --serialize-diagnostics /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.dia -c /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiAppDelegate.m -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiAppDelegate.o36"6A5C2610-1D72-45E5-BF6C-A6A53DB26310-
+
+CCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392191260.995671
+e392191261.039770
+r1
+xCompileC
+xBuild/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.o
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.meb01ff1c5d60b741^732d0a1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m0000000000000000^4411"CompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.o MixiRequestManagerSample/MixiRequestManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-generated-files.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-own-target-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-all-target-headers.hmap -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-project-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources/i386 -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources -F/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator -include /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch -MMD -MT dependencies -MF /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.d --serialize-diagnostics /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.dia -c /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManager.m -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManager.o36"6B8932CA-4DE9-4606-BDA7-95DDB6FA071A-
+
+CCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392191260.995660
+e392191261.084766
+r1
+xCompileC
+xBuild/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.o
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.me602ff1c5d60b741^52b5151d5d60b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m0000000000000000^4441"CompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.o MixiRequestManagerSample/MixiTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-generated-files.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-own-target-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-all-target-headers.hmap -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-project-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources/i386 -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources -F/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator -include /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch -MMD -MT dependencies -MF /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.d --serialize-diagnostics /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.dia -c /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.m -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiTableViewController.o36"ED8E76BC-102B-4714-81CC-2FF3C39C1549-
+
+CCompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392191260.995631
+e392191261.049755
+r1
+xCompileC
+xBuild/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.o
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.mb402ff1c5d60b741^98bd0c1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m0000000000000000^4327"CompileC Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.o MixiRequestManagerSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-generated-files.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-own-target-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-all-target-headers.hmap -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-project-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources/i386 -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources -F/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator -include /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch -MMD -MT dependencies -MF /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.dia -c /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/main.m -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/main.o36"7AD0276B-4502-4B2E-9A02-04C2BA28024A-
+
+CCompileXIB /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib
+s392191261.244023
+e392191261.798781
+r1
+xCompileXIB
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib6c933e1d5d60b741^4e7dcc1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib0000000000000000^1109"CompileXIB MixiRequestManagerSample/MixiTableViewCell.xib    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiTableViewCell.nib /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewCell.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"0761C420-7D94-46BE-9506-AB2FEAD3BFF4-
+
+CCompileXIB /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib
+s392191261.244015
+e392191261.310671
+r1
+xCompileXIB
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compiling /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib43913e1d5d60b741^83894f1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib0000000000000000^1127"CompileXIB MixiRequestManagerSample/MixiTableViewController.xib    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiTableViewController.nib /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiTableViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"FF548EDE-50E7-4FCA-9A60-5F2334B49765-
+
+CCopyStringsFile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/en.lproj/InfoPlist.strings MixiRequestManagerSample/en.lproj/InfoPlist.strings
+s392191261.243987
+e392191261.301514
+r1
+xCopyStringsFile
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/en.lproj/InfoPlist.strings
+xMixiRequestManagerSample/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy MixiRequestManagerSample/en.lproj/InfoPlist.stringsb4923e1d5d60b741^cf304d1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/en.lproj/InfoPlist.strings0000000000000000^799"CopyStringsFile Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/en.lproj/InfoPlist.strings MixiRequestManagerSample/en.lproj/InfoPlist.strings    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/en.lproj -- MixiRequestManagerSample/en.lproj/InfoPlist.strings36"55BEECC9-E057-4422-86EB-5B19188CBEFC-
+
+CCpResource MixiRequestManagerSample/Default-568h@2x.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png
+s392191261.244008
+e392191261.252007
+r1
+xCpResource
+xMixiRequestManagerSample/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png8e933e1d5d60b741^0a85401d5d60b741^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png000000000080d041^843"CpResource "MixiRequestManagerSample/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default-568h@2x.png"    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/Default-568h@2x.png" /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app36"E071767F-8C97-4811-8A8B-ABE680C68FD6-
+
+CCpResource MixiRequestManagerSample/Default.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png
+s392191261.243977
+e392191261.247169
+r1
+xCpResource
+xMixiRequestManagerSample/Default.png
+xBuild/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png7a8c3e1d5d60b741^bb463f1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png000000000080d041^813"CpResource MixiRequestManagerSample/Default.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default.png    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/Default.png /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app36"22BF1868-D0E6-432A-BA91-9FD71A89433A-
+
+CCpResource MixiRequestManagerSample/Default@2x.png Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png
+s392191261.243996
+e392191261.249726
+r1
+xCpResource
+xMixiRequestManagerSample/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png3e923e1d5d60b741^d9ed3f1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png000000000080d041^828"CpResource "MixiRequestManagerSample/Default@2x.png" "Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Default@2x.png"    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/Default@2x.png" /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app36"6D2FF3FC-6460-4507-8C51-DB23573A83F6-
+
+CGenerateDSYMFile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample
+s392191261.130068
+e392191261.235716
+r1
+xGenerateDSYMFile
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM8863211d5d60b741^8a583c1d5d60b741^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM000000000080d041^916"GenerateDSYMFile Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app.dSYM36"1B5CAB8D-B17A-49DF-9B40-76028442CF94-
+
+CLd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample normal i386
+s392191261.090964
+e392191261.123057
+r1
+xLd
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Link /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample3062171d5d60b741^99801f1d5d60b741^---0#0#0#--1499"Ld Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample normal i386    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator -F/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator -filelist /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/Objects-normal/i386/MixiRequestManagerSample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/MixiRequestManagerSample36"D96CD8CC-B110-4842-8972-0BC761B6C06E-
+
+CProcessInfoPlistFile /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Info.plist MixiRequestManagerSample/MixiRequestManagerSample-Info.plist
+s392191260.739995
+e392191260.743996
+r1
+xProcessInfoPlistFile
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Info.plist
+xMixiRequestManagerSample/MixiRequestManagerSample-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Process MixiRequestManagerSample/MixiRequestManagerSample-Info.plist5183bd1c5d60b741^9676be1c5d60b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManagerSample-Info.plist0000000000000000^949"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Info.plist MixiRequestManagerSample/MixiRequestManagerSample-Info.plist    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    builtin-infoPlistUtility MixiRequestManagerSample/MixiRequestManagerSample-Info.plist -genpkginfo /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app/Info.plist36"21CE4DAC-0A59-474E-89DD-958B852BC1CA-
+
+CProcessPCH /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.pth MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392191260.751492
+e392191260.989157
+r1
+xProcessPCH
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.pth
+xMixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch1b81c01c5d60b741^193bfd1c5d60b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch0000000000000000^4227"ProcessPCH Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.pth MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-generated-files.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-own-target-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-all-target-headers.hmap -iquote /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/MixiRequestManagerSample-project-headers.hmap -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources/i386 -I/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/MixiRequestManagerSample.build/Debug-iphonesimulator/MixiRequestManagerSample.build/DerivedSources -F/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.dia -c /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch -o /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.pth -MMD -MT dependencies -MF /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Intermediates/PrecompiledHeaders/MixiRequestManagerSample-Prefix-fdcdnerxqapupffghekhxmetobnk/MixiRequestManagerSample-Prefix.pch.d36"9A761152-1E4C-4D1E-A0D3-5D38909AEB49-
+
+CProcessPCH /Users/yuichi.takeda/Library/Developer/Xcode/DerivedData/MixiRequestManagerSample-bcplzsnphrpgbrawwggfosekgswp/Index/PrecompiledHeaders/MixiRequestManagerSample-Prefix-dhepqpdfvnxngmbwyfhchabirtmi_ast/MixiRequestManagerSample-Prefix.pch.pth MixiRequestManagerSample/MixiRequestManagerSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app
+s392191261.806180
+e392191261.818988
+r1
+xTouch
+x/Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app4b78ce1d5d60b741^11a9d11d5d60b741^---0#0#0#--578"Touch Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app    cd /Users/yuichi.takeda/Desktop/MixiRequestManagerSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin/:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/yuichi.takeda/bin:/opt/local/libexec/perl5.12/sitebin/"    /usr/bin/touch -c /Users/yuichi.takeda/Desktop/MixiRequestManagerSample/Build/Products/Debug-iphonesimulator/MixiRequestManagerSample.app36"6F93D827-70CD-4967-9402-14BF039E3F1F-
+

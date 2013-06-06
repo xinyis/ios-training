@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "AssetsViewController.h"
 
 @interface ViewController ()
 
@@ -44,12 +45,24 @@
 
 
 - (IBAction)pressSelectPhoto:(id)sender {
-    UIImagePickerController *imagePicker = [[UIImagePickerController alloc]init];
+    /*UIImagePickerController *imagePicker = [[UIImagePickerController alloc]init];
     imagePicker.sourceType = UIImagePickerControllerSourceTypePhotoLibrary;
     imagePicker.allowsEditing = YES;
     
     imagePicker.delegate = self;
-    [self presentViewController:imagePicker animated:YES completion:nil];
+    [self presentViewController:imagePicker animated:YES completion:nil];*/
+
+    AssetsViewController *assetsViewController = [[AssetsViewController alloc] init ];
+    assetsViewController.delegate = self;
+    [self presentViewController: assetsViewController animated:YES completion:nil];
 
 }
+
+-(void)imagePickerController:(UIImagePickerController *)picker didFinishPickingMediaWithInfo:(NSDictionary *)info{
+    [picker dismissViewControllerAnimated:YES completion:nil];
+
+    
+}
+
+
 @end
